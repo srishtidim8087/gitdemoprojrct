@@ -6,9 +6,10 @@ this is for git example
    <BODY>
 
 
-            login
+            <h3>login</h3>
              password
-              submit: <input type"submit"></input>
+              submit: <input type"submit"/>
+              
    </BODY>
 
 </HTML>	
